@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Next.js build outputs
+.next/
+**/frontend/.next/
+**/frontend/out/
+
+# NestJS build outputs
+dist/
+**/backend/dist/
+
+# Environment and secrets
+.env
+.env*.local
+*.env
+
+# System and logs
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
