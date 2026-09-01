@@ -4,7 +4,7 @@ Feed this + PROJECT_BRIEF.md to Antigravity as the working spec. Check off as yo
 
 ## Day 1 — Skeleton + deploy pipeline
 - [x] Init backend repo (NestJS), init frontend repo (Next.js)
-- [ ] Push both to GitHub
+- [x] Push both to GitHub
 - [ ] Deploy empty "Hello TutorFlow" pages to Render + Vercel — confirm the pipeline works before building anything real
 - [ ] Provision Neon Postgres, add connection string to Render env vars
 - [ ] Get Gemini API key, add to Render env vars
